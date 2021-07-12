@@ -4,7 +4,7 @@ This is a collection of Godot engine tutorial makers, not dev log makers. Tutori
 | Name          | Youtube | Website | Begginer friendly |    
 | --- | --- | --- | --- |    
 | NeZvers              | [Youtube](https://www.youtube.com/channel/UCb4-Y0E6mmwjtawcitIAzKQ) |   |   |    
-| Godot Tutorials      | [Youtube](https://www.youtube.com/channel/UCnr9ojBEQGgwbcKsZC-2rIg) |   | X |    
+| Godot Tutorials      | [Youtube](https://www.youtube.com/channel/UCnr9ojBEQGgwbcKsZC-2rIg) |   | XX |    
 | GDQuest              | [Youtube](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ) |   | X |    
 | Jumma Game Developer | [Youtube](https://www.youtube.com/channel/UCDWOl3i3mNijWRNQ_spQiaw) |   | X |    
 | KidsCanCode          | [Youtube](https://www.youtube.com/channel/UCNaPQ5uLX5iIEHUCLmfAgKg) | [kidscancode.org](https://kidscancode.org/godot_recipes/) | X |    
