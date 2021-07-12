@@ -7,6 +7,7 @@ This is a collection of Godot engine tutorial makers, not dev log makers. Tutori
 | Godot Tutorials      | [Youtube](https://www.youtube.com/channel/UCnr9ojBEQGgwbcKsZC-2rIg) |   | X |    
 | GDQuest              | [Youtube](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ) |   | X |    
 | Jumma Game Developer | [Youtube](https://www.youtube.com/channel/UCDWOl3i3mNijWRNQ_spQiaw) |   | X |    
+| KidsCanCode          | [Youtube](https://www.youtube.com/channel/UCNaPQ5uLX5iIEHUCLmfAgKg) | [kidscancode.org](https://kidscancode.org/godot_recipes/) | X |    
 | Hons Hon Central     | [Youtube](https://www.youtube.com/channel/UCPwlYttf6S3llP5k8L-rDKA) |   |   |    
 | Pigdev               | [Youtube](https://www.youtube.com/channel/UCFK9ZoVDqDgY6KGMcHEloFw) |   |   |    
 | Garbaj               | [Youtube](https://www.youtube.com/channel/UCPUe9uOcp1UMpVi6Vll60Jw) |   |   |    
@@ -26,7 +27,6 @@ This is a collection of Godot engine tutorial makers, not dev log makers. Tutori
 | CodeNMore            | [Youtube](https://www.youtube.com/channel/UCaM7SQvF5q9sz4NgL16PNRA) |   |   |    
 | Drew Conley          | [Youtube](https://www.youtube.com/channel/UCvQwAK9oAYXM0RMucLy2-BA) |   |   |    
 | jmbiv                | [Youtube](https://www.youtube.com/channel/UCLzFt-NdfCm8WFKTyqD0yJw) |   |   |    
-| KidsCanCode          | [Youtube](https://www.youtube.com/channel/UCNaPQ5uLX5iIEHUCLmfAgKg) | [kidscancode.org](https://kidscancode.org/godot_recipes/) |   |    
 | RekarsGames          | [Youtube](https://www.youtube.com/channel/UCV9JJEjM1ynCI0W1zG-b4bw) |   |   |    
 | Emilio               | [Youtube](https://www.youtube.com/channel/UC9DR22-qohBDtZ74R3FxOZg) |   |   |    
 | Pirate Chip Games    | [Youtube](https://www.youtube.com/channel/UCENdbZuJl_y1IXfLspsGOlg) |   |   |    
