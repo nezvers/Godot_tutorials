@@ -1,5 +1,5 @@
 # Godot Tutorials EN     
-This is collection of Godot engine tutorial makers, not dev log makers. Tutorials need to be easily seen on provided platform. Has at least 3 tutorials on recent major Godot version.     
+This is a collection of Godot engine tutorial makers, not dev log makers. Tutorials need to be easily seen on provided platform. Has at least 3 tutorials on recent major Godot version.     
      
 | Name          | Youtube | Website | Begginer friendly |    
 | --- | --- | --- | --- |    
