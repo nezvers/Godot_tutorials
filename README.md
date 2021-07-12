@@ -101,3 +101,4 @@ This is a collection of Godot engine tutorial makers, not dev log makers. Tutori
 | Red Alpha            | [Youtube](https://www.youtube.com/channel/UCCGimD9a-TeS4VCYLtJ_lSw) |   |   |    
 | Chance. E            | [Youtube](https://www.youtube.com/channel/UCRO_xn5UAS7CnAEtg_wtyVg) |   |   |    
 | Arith metic          | [Youtube](https://www.youtube.com/channel/UCq7NNPOc2dL19v83agyVFsA) |   |   |    
+| PlayWithFurcifer     | [Youtube](https://www.youtube.com/channel/UCTEZ0gVA5jMYq2SwjLyTUKw) |   |   |    
