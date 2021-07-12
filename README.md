@@ -5,8 +5,9 @@ This is a collection of Godot engine tutorial makers, not dev log makers. Tutori
 | --- | --- | --- | --- |    
 | NeZvers              | [Youtube](https://www.youtube.com/channel/UCb4-Y0E6mmwjtawcitIAzKQ) |   |   |    
 | Godot Tutorials      | [Youtube](https://www.youtube.com/channel/UCnr9ojBEQGgwbcKsZC-2rIg) |   | X |    
-| Hons Hon Central     | [Youtube](https://www.youtube.com/channel/UCPwlYttf6S3llP5k8L-rDKA) |   | X |    
-| GDQuest              | [Youtube](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ) |   |   |    
+| GDQuest              | [Youtube](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ) |   | X |    
+| Jumma Game Developer | [Youtube](https://www.youtube.com/channel/UCDWOl3i3mNijWRNQ_spQiaw) |   | X |    
+| Hons Hon Central     | [Youtube](https://www.youtube.com/channel/UCPwlYttf6S3llP5k8L-rDKA) |   |   |    
 | Pigdev               | [Youtube](https://www.youtube.com/channel/UCFK9ZoVDqDgY6KGMcHEloFw) |   |   |    
 | Garbaj               | [Youtube](https://www.youtube.com/channel/UCPUe9uOcp1UMpVi6Vll60Jw) |   |   |    
 | Miziziziz            | [Youtube](https://www.youtube.com/channel/UCaoqVlqPTH78_xjTjTOMcmQ) |   |   |    
@@ -69,7 +70,6 @@ This is a collection of Godot engine tutorial makers, not dev log makers. Tutori
 | SlushyGames          | [Youtube](https://www.youtube.com/channel/UCzZmu-WqjpylG_JFvAErG0Q) |   |   |    
 | LucyLavend           | [Youtube](https://www.youtube.com/channel/UCtgPGBUUk7LR9ItF3SlWriQ) |   |   |    
 | A Creates            | [Youtube](https://www.youtube.com/channel/UCyLmz1Swi0DUJrp7lW7mkfw) |   |   |    
-| Jumma Game Developer | [Youtube](https://www.youtube.com/channel/UCDWOl3i3mNijWRNQ_spQiaw) |   | X |    
 | bitbrain             | [Youtube](https://www.youtube.com/channel/UCZDjQltHRNiXIYXMBeLDleA) |   |   |    
 | zzz_games            | [Youtube](https://www.youtube.com/channel/UCEqk33MBlI-DP93t6O2GccA) |   |   |    
 | rayuse rp            | [Youtube](https://www.youtube.com/channel/UCtw0VxRBTPk6lUEWlviRLGA) |   |   |    
