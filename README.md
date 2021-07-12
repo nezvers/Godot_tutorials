@@ -25,7 +25,7 @@ This is collection of Godot engine tutorial makers, not dev log makers. Tutorial
 | CodeNMore            | [Youtube](https://www.youtube.com/channel/UCaM7SQvF5q9sz4NgL16PNRA) |   |   |    
 | Drew Conley          | [Youtube](https://www.youtube.com/channel/UCvQwAK9oAYXM0RMucLy2-BA) |   |   |    
 | jmbiv                | [Youtube](https://www.youtube.com/channel/UCLzFt-NdfCm8WFKTyqD0yJw) |   |   |    
-| KidsCanCode          | [Youtube](https://www.youtube.com/channel/UCNaPQ5uLX5iIEHUCLmfAgKg) |   |   |    
+| KidsCanCode          | [Youtube](https://www.youtube.com/channel/UCNaPQ5uLX5iIEHUCLmfAgKg) | [kidscancode.org](https://kidscancode.org/godot_recipes/) |   |    
 | RekarsGames          | [Youtube](https://www.youtube.com/channel/UCV9JJEjM1ynCI0W1zG-b4bw) |   |   |    
 | Emilio               | [Youtube](https://www.youtube.com/channel/UC9DR22-qohBDtZ74R3FxOZg) |   |   |    
 | Pirate Chip Games    | [Youtube](https://www.youtube.com/channel/UCENdbZuJl_y1IXfLspsGOlg) |   |   |    
