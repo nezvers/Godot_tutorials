@@ -43,7 +43,7 @@ This is a collection of Godot engine tutorial makers, not dev log makers. Tutori
 | Ram Homier           | [Youtube](https://www.youtube.com/user/MrRamify                   ) |   |   |    
 | Shapkofil            | [Youtube](https://www.youtube.com/channel/UCWJDwtTXX8zWSAixC3OweMA) |   |   |    
 | Marin Senges         | [Youtube](https://www.youtube.com/channel/UCXEIBsbMlh5vhkYS6glOyeg) |   |   |    
-| Snopek Games (Godot and Git) | [Youtube](https://www.youtube.com/channel/UCBt_sQrF2IJm40yrXtOSNsw) |   |   |    
+| Snopek Games         | [Youtube](https://www.youtube.com/channel/UCBt_sQrF2IJm40yrXtOSNsw) |   |   |    
 | Ozzadar              | [Youtube](https://www.youtube.com/c/Ozzadar0/                     ) |   |   |    
 | GameDevArts          | [Youtube](https://www.youtube.com/channel/UCXldal6CUBKfInCsDLGvjXA) |   |   |    
 | NovemberDev          | [Youtube](https://www.youtube.com/channel/UClsKxXIM-THQJyIfXlQqMww) |   |   |    
