@@ -3,8 +3,8 @@ This is a collection of Godot engine tutorial makers, not dev log makers. Tutori
      
 | Name          | Youtube | Website | Begginer friendly |    
 | --- | --- | --- | --- |    
-| NeZvers              | [Youtube](https://www.youtube.com/channel/UCb4-Y0E6mmwjtawcitIAzKQ) |   | X |    
-| Godot Tutorials      | [Youtube](https://www.youtube.com/channel/UCnr9ojBEQGgwbcKsZC-2rIg) |   |   |    
+| NeZvers              | [Youtube](https://www.youtube.com/channel/UCb4-Y0E6mmwjtawcitIAzKQ) |   |   |    
+| Godot Tutorials      | [Youtube](https://www.youtube.com/channel/UCnr9ojBEQGgwbcKsZC-2rIg) |   | X |    
 | Hons Hon Central     | [Youtube](https://www.youtube.com/channel/UCPwlYttf6S3llP5k8L-rDKA) |   |   |    
 | GDQuest              | [Youtube](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ) |   |   |    
 | Pigdev               | [Youtube](https://www.youtube.com/channel/UCFK9ZoVDqDgY6KGMcHEloFw) |   |   |    
