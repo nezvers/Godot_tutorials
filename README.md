@@ -55,7 +55,6 @@ This is a collection of Godot engine tutorial makers, not dev log makers. Tutori
 | craftablescience     | [Youtube](https://www.youtube.com/channel/UC-w_GVUnPT9LuSm5z9eLbbQ) |   |   |    
 | Nesi                 | [Youtube](https://www.youtube.com/c/NesiAwesomeness/              ) |   |   |    
 | DavidWesst           | [Youtube](https://www.youtube.com/c/DavidWesst                    ) |   |   |    
-| Nesi                 | [Youtube](https://www.youtube.com/channel/UCviAVsF9BAdCGtzpFHSrWzA) |   |   |    
 | Patrick Ory          | [Youtube](https://www.youtube.com/channel/UCZfeuO1hQ9RDiayYjm1wJog) |   |   |    
 | jus'ko               | [Youtube](https://www.youtube.com/channel/UCI2wrI4NV1zHtZhVMmnj-nQ) |   |   |    
 | ABC_Gamez            | [Youtube](https://www.youtube.com/channel/UCEyzutdxmqyZuMqXPVT8ziA) |   |   |    
