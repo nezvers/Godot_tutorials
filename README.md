@@ -101,4 +101,5 @@ This is a collection of Godot engine tutorial makers, not dev log makers. Tutori
 | Chance. E            | [Youtube](https://www.youtube.com/channel/UCRO_xn5UAS7CnAEtg_wtyVg) |   |   |    
 | Arith metic          | [Youtube](https://www.youtube.com/channel/UCq7NNPOc2dL19v83agyVFsA) |   |   |    
 | PlayWithFurcifer     | [Youtube](https://www.youtube.com/channel/UCTEZ0gVA5jMYq2SwjLyTUKw) |   |   |    
-| SmallNap             | [Youtube](https://www.youtube.com/channel/UClPBr5Gko15esP76EtBfGfw) |   |   |
+| SmallNap             | [Youtube](https://www.youtube.com/channel/UClPBr5Gko15esP76EtBfGfw) |   |   |    
+| Delano Lourenco      | [Youtube](https://www.youtube.com/channel/UCG-5PDEYcmQKkL26opUo0zA) |   |   |    
