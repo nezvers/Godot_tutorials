@@ -1,0 +1,6 @@
+# Godot Tutorials RU     
+Это собрание создателей руководств по движку Godot, а не разработчиков логов. Учебники должны быть легко доступны для просмотра на предоставленной платформе. Имеет как минимум 3 руководства по последней основной версии Godot.         
+     
+| Name          | Youtube | Website | Begginer friendly |    
+| --- | --- | --- | --- |    
+| Netfrace              | [Youtube](https://www.youtube.com/channel/UCzvuZNKEhRA2OqAgyvauN8A) |   |   |    
