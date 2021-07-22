@@ -103,3 +103,4 @@ This is a collection of Godot engine tutorial makers, not dev log makers. Tutori
 | PlayWithFurcifer     | [Youtube](https://www.youtube.com/channel/UCTEZ0gVA5jMYq2SwjLyTUKw) |   |   |    
 | SmallNap             | [Youtube](https://www.youtube.com/channel/UClPBr5Gko15esP76EtBfGfw) |   |   |    
 | Delano Lourenco      | [Youtube](https://www.youtube.com/channel/UCG-5PDEYcmQKkL26opUo0zA) |   |   |    
+| Hex Blit University  | [Youtube](https://www.youtube.com/channel/UCvNgcNoZZjuysCA3AnmlZVQ) |   |   |    
