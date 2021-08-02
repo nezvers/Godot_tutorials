@@ -108,3 +108,4 @@ This is a collection of Godot engine tutorial makers, not dev log makers. Tutori
 | Solo CodeNet         | [youtube](https://www.youtube.com/channel/UC2Kl-Y9g3CJST4U8kAyYxHw) |   |   |    
 | Master LogBook       | [youtube](https://www.youtube.com/channel/UCbffd1m04M2PDFU2ZAN_71A) |   |   |    
 | Red Cube Gamedev     | [youtube](https://www.youtube.com/channel/UC9SkT5ZbQzFPCT2AngwO_3A) |   |   |    
+| LukeRS               | [youtube](https://www.youtube.com/channel/UC92SmVqJ1X1EpLab_xaXR9Q) |   |   |    
