@@ -110,3 +110,4 @@ This is a collection of Godot engine tutorial makers, not dev log makers. Tutori
 | Red Cube Gamedev     | [youtube](https://www.youtube.com/channel/UC9SkT5ZbQzFPCT2AngwO_3A) |   |   |    
 | LukeRS               | [youtube](https://www.youtube.com/channel/UC92SmVqJ1X1EpLab_xaXR9Q) |   |   |    
 | Eli Cuaycong         | [youtube](https://www.youtube.com/channel/UCoTXIeHJP7_PukZOCK2C2RA) |   |   |    
+| DaveTM               | [youtube](https://www.youtube.com/channel/UCQAVP4ERb203QWVK8aDb9jQ) |   |   |    
