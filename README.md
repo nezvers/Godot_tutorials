@@ -112,3 +112,4 @@ This is a collection of Godot engine tutorial makers, not dev log makers. Tutori
 | Eli Cuaycong         | [youtube](https://www.youtube.com/channel/UCoTXIeHJP7_PukZOCK2C2RA) |   |   |    
 | DaveTM               | [youtube](https://www.youtube.com/channel/UCQAVP4ERb203QWVK8aDb9jQ) |   |   |    
 | Off-Grid Dev         | [youtube](https://www.youtube.com/channel/UCpUUqnvamnklfW7jTvvBMaA) |   |   |    
+| Chance. E            | [youtube](https://www.youtube.com/channel/UCRO_xn5UAS7CnAEtg_wtyVg) |   |   |    
