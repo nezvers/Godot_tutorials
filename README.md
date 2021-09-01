@@ -116,3 +116,4 @@ This is a collection of Godot engine tutorial makers, not dev log makers. Tutori
 | This Is Vini         | [youtube](https://www.youtube.com/channel/UCWFbWoKdMqr59sajljJyowA) |   |   |    
 | Off-Grid Dev         | [youtube](https://www.youtube.com/channel/UCpUUqnvamnklfW7jTvvBMaA) |   |   |    
 | Checkov Stuff        | [youtube](https://www.youtube.com/channel/UCTDC9tS0Qkd6EDhX-oQ5ldA) |   |   |    
+| Coding with Mick     | [youtube](https://www.youtube.com/channel/UCvHSLcANu35REXr77KsWIvw) |   |   |    
