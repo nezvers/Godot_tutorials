@@ -115,3 +115,4 @@ This is a collection of Godot engine tutorial makers, not dev log makers. Tutori
 | Chance. E            | [youtube](https://www.youtube.com/channel/UCRO_xn5UAS7CnAEtg_wtyVg) |   |   |    
 | This Is Vini         | [youtube](https://www.youtube.com/channel/UCWFbWoKdMqr59sajljJyowA) |   |   |    
 | Off-Grid Dev         | [youtube](https://www.youtube.com/channel/UCpUUqnvamnklfW7jTvvBMaA) |   |   |    
+| Checkov Stuff        | [youtube](https://www.youtube.com/channel/UCTDC9tS0Qkd6EDhX-oQ5ldA) |   |   |    
