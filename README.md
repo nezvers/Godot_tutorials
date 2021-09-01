@@ -119,3 +119,4 @@ This is a collection of Godot engine tutorial makers, not dev log makers. Tutori
 | Coding with Mick     | [youtube](https://www.youtube.com/channel/UCvHSLcANu35REXr77KsWIvw) |   |   |    
 | Gioele Santi         | [youtube](https://www.youtube.com/channel/UCaJFJsbJnnoSB1_qYnxjKsA) |   |   |    
 | _ was                | [youtube](https://www.youtube.com/channel/UC7CuKzumE33s_XazshcKMpA) |   |   |    
+| VolTer               | [youtube](https://www.youtube.com/channel/UChy-_VXIe7EksndLXYisoWg) |   |   |    
