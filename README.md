@@ -118,3 +118,4 @@ This is a collection of Godot engine tutorial makers, not dev log makers. Tutori
 | Checkov Stuff        | [youtube](https://www.youtube.com/channel/UCTDC9tS0Qkd6EDhX-oQ5ldA) |   |   |    
 | Coding with Mick     | [youtube](https://www.youtube.com/channel/UCvHSLcANu35REXr77KsWIvw) |   |   |    
 | Gioele Santi         | [youtube](https://www.youtube.com/channel/UCaJFJsbJnnoSB1_qYnxjKsA) |   |   |    
+| _ was                | [youtube](https://www.youtube.com/channel/UC7CuKzumE33s_XazshcKMpA) |   |   |    
