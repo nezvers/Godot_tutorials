@@ -122,3 +122,4 @@ This is a collection of Godot engine tutorial makers, not dev log makers. Tutori
 | VolTer               | [youtube](https://www.youtube.com/channel/UChy-_VXIe7EksndLXYisoWg) |   |   |    
 | Mokarrom Hossain     | [youtube](https://www.youtube.com/c/MokarromHossain)                |   |   |    
 | bad-sad              | [youtube](https://www.youtube.com/channel/UCQnYGYgX-MCtc5VzUrzTC4g) |   |   |    
+| Vitika               | [youtube](https://www.youtube.com/channel/UCduXwGSz5SLfoD0JqMs6DVA) |   |   |    
