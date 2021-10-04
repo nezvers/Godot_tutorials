@@ -125,3 +125,4 @@ This is a collection of Godot engine tutorial makers, not dev log makers. Tutori
 | Vitika               | [youtube](https://www.youtube.com/channel/UCduXwGSz5SLfoD0JqMs6DVA) |   |   |    
 | NekotoArts           | [youtube](https://www.youtube.com/channel/UCD7K_FECPHTF0z5okAVlh0g) |   |   |    
 | DevWorm              | [youtube](https://www.youtube.com/channel/UCSehnx-yuPok8rOWlPIGGOQ) |   |   |    
+| AJ08Coder            | [youtube](https://www.youtube.com/channel/UCstb_tFgY0CLj95eCLmA96w) |   |   |    
