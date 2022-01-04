@@ -128,3 +128,4 @@ This is a collection of Godot engine tutorial makers, not dev log makers. Tutori
 | AJ08Coder            | [youtube](https://www.youtube.com/channel/UCstb_tFgY0CLj95eCLmA96w) |   |   |    
 | KindoSaur Productions| [youtube](https://www.youtube.com/channel/UCO9VPWphWuHAQ30X-BeMu6A) |   |   |   
 | Stactory             | [youtube](https://www.youtube.com/channel/UC_uNyzyHqTEZE371W2N0eKw) |   |   |   
+| Nolkaloid            | [youtube](https://www.youtube.com/channel/UCEg0FrVjeF747OtgCBrtobQ) |   |   |   
