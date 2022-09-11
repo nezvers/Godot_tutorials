@@ -4,7 +4,8 @@ This is a collection of Godot engine tutorial makers, not dev log makers. Tutori
 | Name          | Youtube | Website | Begginer friendly |    
 | --- | --- | --- | --- |    
 | NeZvers              | [Youtube](https://www.youtube.com/channel/UCb4-Y0E6mmwjtawcitIAzKQ) |   |   |    
-| Godot Tutorials      | [Youtube](https://www.youtube.com/channel/UCnr9ojBEQGgwbcKsZC-2rIg) |   | XX |    
+| Godot Tutorials      | [Youtube](https://www.youtube.com/channel/UCnr9ojBEQGgwbcKsZC-2rIg) |   | XX |      
+| Heartbeast           | [Youtube](https://www.youtube.com/user/uheartbeast                ) |   | X |  
 | GDQuest              | [Youtube](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ) |   | X |    
 | Jumma Game Developer | [Youtube](https://www.youtube.com/channel/UCDWOl3i3mNijWRNQ_spQiaw) |   | X |    
 | KidsCanCode          | [Youtube](https://www.youtube.com/channel/UCNaPQ5uLX5iIEHUCLmfAgKg) | [kidscancode.org](https://kidscancode.org/godot_recipes/) | X |    
@@ -17,7 +18,6 @@ This is a collection of Godot engine tutorial makers, not dev log makers. Tutori
 | CowKey Dev           | [Youtube](https://www.youtube.com/channel/UCSjt5kel4WIJN6iXbDECu6g) |   |   |    
 | Bramwell Williams    | [Youtube](https://www.youtube.com/channel/UCczi7Aq_dTKrQPF5ZV5J3gg) |   |   |    
 | Dave the Dev         | [Youtube](https://www.youtube.com/channel/UCAbIgoN2rBxvAt0WG0akkKQ) |   |   |    
-| Heartbeast           | [Youtube](https://www.youtube.com/user/uheartbeast                ) |   |   |    
 | Alberto Luviano      | [Youtube](https://www.youtube.com/channel/UCNsL1xYdyQU1mO_YEvzUCWA) |   |   |    
 | WillNationsDev       | [Youtube](https://www.youtube.com/channel/UC7uU5XaPB9uYKlowYOhEHnA) |   |   |    
 | Ivan Skodje          | [Youtube](https://www.youtube.com/channel/UCBHuFCVtZ9vVPkL2VxVHU8A) |   |   |    
